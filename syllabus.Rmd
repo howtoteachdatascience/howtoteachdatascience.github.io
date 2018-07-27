@@ -1,5 +1,0 @@
----
-title: "Syllabus"
-output: html_document
----
-

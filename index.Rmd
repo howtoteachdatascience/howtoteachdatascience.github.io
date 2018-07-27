@@ -9,7 +9,7 @@ Demand for data science education is surging and traditional courses, offered by
 
 ## Where can I take this course? 
 
-* [JSM 2018](http://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215370)
+* JSM 2018: [course description](http://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215370), [course materials](https://github.com/howtoteachdatascience/JSM2018)
 
 
 
