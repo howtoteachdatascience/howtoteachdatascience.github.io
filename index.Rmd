@@ -1,0 +1,15 @@
+---
+title: "How to Teach Data Science"
+output: html_document
+---
+
+## Welcome! 
+
+Demand for data science education is surging and traditional courses, offered by statistics departments, are not meeting the needs of those seeking training. A popular recommendation for improvement is that computing should play a more prominent role. We agree with this recommendation, but also advocate that the main priority is to bring applications to the forefront. In this short course we will work through some real world data analysis examples and, in the process, introduce skills and concepts not typically taught in traditional courses. Examples include data wrangling, exploratory data analysis, data visualization, reproducible research, and machine learning. We will also introduce tidyverse tools such as dplyr and ggplot2. Throughout the course we focus on statistical thinking and three key skills needed to succeed in data science, which we refer to as creating, connecting, and computing. This course will be of interest to statisticians that want to gain data analysis skills as well as statisticians tasked with teaching a data science courses. Requirements: Understanding of Probability, Inference and R programming. You will need a laptop with the latest R and Rstudio installed and an Internet connection.
+
+## Where can I take this course? 
+
+* [JSM 2018](http://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215370)
+
+
+

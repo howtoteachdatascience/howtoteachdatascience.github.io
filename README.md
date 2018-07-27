@@ -1,0 +1,1 @@
+This is the repository for the website [How To Teach Data Science]() course. 
