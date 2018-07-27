@@ -1,18 +1,21 @@
-name: "How to Teach Data Science"
-output_dir: "."
+name: How to Teach Data Science
+output_dir: '.'
 navbar:
-  title: "How to Teach Data Science"
+  title: How to Teach Data Science
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Syllabus"
-      href: syllabus.html
-    - text: "Staff"
-      menu:
-      - text: "Instructors"
-      - text: "Stephanie Hicks"
-        href: http://stephaniehicks.com/
-      - text: "Rafael Irizarry"
-        href: https://rafalab.github.io/
-    - text: "Resources"
-      href: resources.html
+  - text: Home
+    href: index.html
+  - text: Staff
+    menu:
+    - text: Instructors
+    - text: Stephanie Hicks
+      href: http://stephaniehicks.com/
+    - text: Rafael Irizarry
+      href: https://rafalab.github.io/
+  - text: Resources
+    href: resources.html
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
+
